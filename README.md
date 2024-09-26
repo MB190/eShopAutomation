@@ -15,7 +15,7 @@ Before running the Cypress tests, ensure you have the following installed:
 
 Installation
 1. Clone the repository:
-git clone <your-repo-url>
+git clone https://github.com/MB190/eShopAutomation-url
 cd <your-repo-folder>
 
 2. Install the dependencies:
